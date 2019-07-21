@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="modern-human.html"}
-if(x=="2"){xxx="invitation-card-birthday-party.html"}
-if(x=="3"){xxx="love-bunny-and.html"}
-if(x=="4"){xxx="the-5-most-beautiful-natural-scenery-in.html"}a_to_ve[i].href="https://www.safelink.mstv.online/2019/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="the-legend-of-malin-kundang.html"}
+if(x=="2"){xxx="golden-snail.html"}
+if(x=="3"){xxx="the-fox-and-crow.html"}
+if(x=="4"){xxx="we-love-you-all.html"}a_to_ve[i].href="https://www.go.sibonpos.online/2019/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
